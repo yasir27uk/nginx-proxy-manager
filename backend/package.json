@@ -17,7 +17,7 @@
 		"html-entities": "^1.2.1",
 		"json-schema-ref-parser": "^8.0.0",
 		"jsonwebtoken": "^8.5.1",
-		"knex": "^0.20.13",
+		"knex": "^2.4.0",
 		"liquidjs": "^9.11.10",
 		"lodash": "^4.17.19",
 		"moment": "^2.24.0",
